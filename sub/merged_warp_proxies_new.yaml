@@ -117,7 +117,7 @@ proxies:
     path: /argox-vl?ed=2048
     headers:
       host: giving-hide-provisions-corrected.trycloudflare.com
-- name: None_None_vmess_31
+- name: United States_None_vmess_31
   type: vmess
   server: yh4.dtku41.xyz
   port: 8080
@@ -354,7 +354,7 @@ proxy-groups:
   - The Netherlands_Amsterdam_vless_22
   - None_None_vless_23
   - None_None_vless_24
-  - None_None_vmess_31
+  - United States_None_vmess_31
   - United States_Los Angeles_tuic_41
   - United States_Kansas City_vless_51
   - United States_Kansas City_ss_61
@@ -378,7 +378,7 @@ proxy-groups:
   - The Netherlands_Amsterdam_vless_22
   - None_None_vless_23
   - None_None_vless_24
-  - None_None_vmess_31
+  - United States_None_vmess_31
   - United States_Los Angeles_tuic_41
   - United States_Kansas City_vless_51
   - United States_Kansas City_ss_61
@@ -402,7 +402,7 @@ proxy-groups:
   - The Netherlands_Amsterdam_vless_22
   - None_None_vless_23
   - None_None_vless_24
-  - None_None_vmess_31
+  - United States_None_vmess_31
   - United States_Los Angeles_tuic_41
   - United States_Kansas City_vless_51
   - United States_Kansas City_ss_61
