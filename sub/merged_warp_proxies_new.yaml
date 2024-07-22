@@ -1439,7 +1439,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: United States_None_vmess_094
+- name: None_None_vmess_094
   type: vmess
   server: icook.tw
   port: 2086
@@ -2462,37 +2462,37 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: United States_Dallas_hy2_0
+- name: United States_Wilmington_hy2_0
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
-- name: United States_Dallas_hy2_1
+- name: United States_Wilmington_hy2_1
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
-- name: United States_Dallas_hy2_2
+- name: United States_Wilmington_hy2_2
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
-- name: United States_Dallas_hy2_3
+- name: United States_Wilmington_hy2_3
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
 - name: France_None_reality_0
   type: vless
@@ -2622,7 +2622,7 @@ proxy-groups:
   - United States_San Francisco_vmess_091
   - None_None_vmess_092
   - Canada_Ottawa_vmess_093
-  - United States_None_vmess_094
+  - None_None_vmess_094
   - United States_None_vmess_095
   - United States_None_vmess_096
   - United States_None_vmess_097
@@ -2691,10 +2691,10 @@ proxy-groups:
   - United States_None_hy_1
   - United States_None_hy_2
   - United States_Wilmington_hy_3
-  - United States_Dallas_hy2_0
-  - United States_Dallas_hy2_1
-  - United States_Dallas_hy2_2
-  - United States_Dallas_hy2_3
+  - United States_Wilmington_hy2_0
+  - United States_Wilmington_hy2_1
+  - United States_Wilmington_hy2_2
+  - United States_Wilmington_hy2_3
   - France_None_reality_0
 - name: 手动选择
   type: select
@@ -2792,7 +2792,7 @@ proxy-groups:
   - United States_San Francisco_vmess_091
   - None_None_vmess_092
   - Canada_Ottawa_vmess_093
-  - United States_None_vmess_094
+  - None_None_vmess_094
   - United States_None_vmess_095
   - United States_None_vmess_096
   - United States_None_vmess_097
@@ -2861,10 +2861,10 @@ proxy-groups:
   - United States_None_hy_1
   - United States_None_hy_2
   - United States_Wilmington_hy_3
-  - United States_Dallas_hy2_0
-  - United States_Dallas_hy2_1
-  - United States_Dallas_hy2_2
-  - United States_Dallas_hy2_3
+  - United States_Wilmington_hy2_0
+  - United States_Wilmington_hy2_1
+  - United States_Wilmington_hy2_2
+  - United States_Wilmington_hy2_3
   - France_None_reality_0
 - name: 负载均衡
   type: load-balance
@@ -2962,7 +2962,7 @@ proxy-groups:
   - United States_San Francisco_vmess_091
   - None_None_vmess_092
   - Canada_Ottawa_vmess_093
-  - United States_None_vmess_094
+  - None_None_vmess_094
   - United States_None_vmess_095
   - United States_None_vmess_096
   - United States_None_vmess_097
@@ -3031,10 +3031,10 @@ proxy-groups:
   - United States_None_hy_1
   - United States_None_hy_2
   - United States_Wilmington_hy_3
-  - United States_Dallas_hy2_0
-  - United States_Dallas_hy2_1
-  - United States_Dallas_hy2_2
-  - United States_Dallas_hy2_3
+  - United States_Wilmington_hy2_0
+  - United States_Wilmington_hy2_1
+  - United States_Wilmington_hy2_2
+  - United States_Wilmington_hy2_3
   - France_None_reality_0
   url: http://www.gstatic.com/generate_204
   interval: 300
